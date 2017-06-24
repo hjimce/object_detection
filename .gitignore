@@ -39,7 +39,6 @@ config.mk
 
 *.pyc
 .Rhistory
-*log
 Debug
 *suo
 tracker

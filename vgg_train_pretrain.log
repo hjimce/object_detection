@@ -1,0 +1,88 @@
+Start training with (gpu(0)) from pretrained model /home/research/disk2/mobilenet/mxnet/example/object_detection/model/vgg16_reduced
+Freezed parameters: [conv1_1_weight,conv1_1_bias,conv1_2_weight,conv1_2_bias,conv2_1_weight,conv2_1_bias,conv2_2_weight,conv2_2_bias]
+Start training with (gpu(0)) from pretrained model /home/research/disk2/mobilenet/mxnet/example/object_detection/model/vgg16_reduced
+Freezed parameters: [conv1_1_weight,conv1_1_bias,conv1_2_weight,conv1_2_bias,conv2_1_weight,conv2_1_bias,conv2_2_weight,conv2_2_bias]
+Start training with (gpu(0)) from pretrained model /home/research/disk2/mobilenet/mxnet/example/object_detection/model/vgg16_reduced
+Freezed parameters: [conv1_1_weight,conv1_1_bias,conv1_2_weight,conv1_2_bias,conv2_1_weight,conv2_1_bias,conv2_2_weight,conv2_2_bias]
+Experimental: start training from scratch with (gpu(0))
+Epoch[0] Batch [20]	Speed: 16.69 samples/sec	CrossEntropy=3.653244	SmoothL1=0.735490
+Start training with (gpu(0)) from pretrained model /home/research/disk2/mobilenet/mxnet/example/object_detection/model/vgg16_reduced
+Freezed parameters: [conv1_1_weight,conv1_1_bias,conv1_2_weight,conv1_2_bias,conv2_1_weight,conv2_1_bias,conv2_2_weight,conv2_2_bias]
+Epoch[0] Batch [20]	Speed: 26.53 samples/sec	CrossEntropy=3.854902	SmoothL1=0.777983
+Resume training with (gpu(0)) from epoch 86
+Freezed parameters: [conv1_1_weight,conv1_1_bias,conv1_2_weight,conv1_2_bias,conv2_1_weight,conv2_1_bias,conv2_2_weight,conv2_2_bias]
+Epoch[86] Batch [20]	Speed: 26.93 samples/sec	CrossEntropy=0.559194	SmoothL1=0.255846
+Epoch[86] Batch [40]	Speed: 26.72 samples/sec	CrossEntropy=0.547530	SmoothL1=0.238522
+Epoch[86] Batch [60]	Speed: 26.56 samples/sec	CrossEntropy=0.558137	SmoothL1=0.262668
+Epoch[86] Batch [80]	Speed: 26.51 samples/sec	CrossEntropy=0.542315	SmoothL1=0.249796
+Epoch[86] Batch [100]	Speed: 26.42 samples/sec	CrossEntropy=0.584783	SmoothL1=0.264065
+Epoch[86] Batch [120]	Speed: 26.47 samples/sec	CrossEntropy=0.544882	SmoothL1=0.247938
+Epoch[86] Batch [140]	Speed: 26.45 samples/sec	CrossEntropy=0.554373	SmoothL1=0.252440
+Epoch[86] Batch [160]	Speed: 26.44 samples/sec	CrossEntropy=0.555331	SmoothL1=0.260560
+Epoch[86] Batch [180]	Speed: 26.45 samples/sec	CrossEntropy=0.549029	SmoothL1=0.254404
+Epoch[86] Batch [200]	Speed: 26.43 samples/sec	CrossEntropy=0.577446	SmoothL1=0.276428
+Epoch[86] Batch [220]	Speed: 26.42 samples/sec	CrossEntropy=0.549298	SmoothL1=0.250211
+Epoch[86] Batch [240]	Speed: 26.33 samples/sec	CrossEntropy=0.565994	SmoothL1=0.264390
+Start training with (gpu(0)) from pretrained model /home/research/disk2/mobilenet/mxnet/example/object_detection/model/vgg16_reduced
+Freezed parameters: [conv1_weight,conv1_bn_gamma,conv1_bn_beta,conv2_1_dw_weight,conv2_1_dw_bn_gamma,conv2_1_dw_bn_beta,conv2_1_sep_weight,conv2_1_sep_bn_gamma,conv2_1_sep_bn_beta,conv2_2_dw_weight,conv2_2_dw_bn_gamma,conv2_2_dw_bn_beta,conv2_2_sep_weight,conv2_2_sep_bn_gamma,conv2_2_sep_bn_beta]
+Start training with (gpu(0)) from pretrained model /home/research/disk2/mobilenet/mxnet/example/object_detection/model/vgg16_reduced
+Freezed parameters: [conv1_weight,conv1_bn_gamma,conv1_bn_beta,conv2_1_dw_weight,conv2_1_dw_bn_gamma,conv2_1_dw_bn_beta,conv2_1_sep_weight,conv2_1_sep_bn_gamma,conv2_1_sep_bn_beta,conv2_2_dw_weight,conv2_2_dw_bn_gamma,conv2_2_dw_bn_beta,conv2_2_sep_weight,conv2_2_sep_bn_gamma,conv2_2_sep_bn_beta]
+Epoch[86] Batch [260]	Speed: 26.36 samples/sec	CrossEntropy=0.554998	SmoothL1=0.265570
+Epoch[86] Batch [280]	Speed: 26.41 samples/sec	CrossEntropy=0.555929	SmoothL1=0.245612
+Epoch[86] Batch [300]	Speed: 26.43 samples/sec	CrossEntropy=0.536370	SmoothL1=0.246418
+Epoch[86] Batch [320]	Speed: 26.41 samples/sec	CrossEntropy=0.563843	SmoothL1=0.263127
+Epoch[86] Batch [340]	Speed: 26.37 samples/sec	CrossEntropy=0.560509	SmoothL1=0.271715
+Epoch[86] Batch [360]	Speed: 26.42 samples/sec	CrossEntropy=0.571144	SmoothL1=0.253994
+Experimental: start training from scratch with (gpu(0))
+Epoch[86] Batch [380]	Speed: 26.48 samples/sec	CrossEntropy=0.550521	SmoothL1=0.247946
+Epoch[86] Batch [400]	Speed: 26.40 samples/sec	CrossEntropy=0.558690	SmoothL1=0.261559
+Epoch[86] Batch [420]	Speed: 26.45 samples/sec	CrossEntropy=0.550924	SmoothL1=0.253843
+Epoch[86] Batch [440]	Speed: 26.46 samples/sec	CrossEntropy=0.549465	SmoothL1=0.256199
+Epoch[86] Batch [460]	Speed: 26.47 samples/sec	CrossEntropy=0.554147	SmoothL1=0.250526
+Epoch[86] Batch [480]	Speed: 26.43 samples/sec	CrossEntropy=0.574140	SmoothL1=0.269620
+Epoch[86] Batch [500]	Speed: 26.45 samples/sec	CrossEntropy=0.562293	SmoothL1=0.259253
+Epoch[86] Train-CrossEntropy=0.549798
+Epoch[86] Train-SmoothL1=0.264987
+Epoch[86] Time cost=626.024
+Saved checkpoint to "/home/research/disk2/mobilenet/mxnet/example/object_detection/model/ssd_300-0087.params"
+Epoch[86] Validation-aeroplane=0.709208
+Epoch[86] Validation-bicycle=0.787807
+Epoch[86] Validation-bird=0.687396
+Epoch[86] Validation-boat=0.624704
+Epoch[86] Validation-bottle=0.353009
+Epoch[86] Validation-bus=0.785518
+Epoch[86] Validation-car=0.799144
+Epoch[86] Validation-cat=0.869071
+Epoch[86] Validation-chair=0.469119
+Epoch[86] Validation-cow=0.754094
+Epoch[86] Validation-diningtable=0.680169
+Epoch[86] Validation-dog=0.834992
+Epoch[86] Validation-horse=0.862515
+Epoch[86] Validation-motorbike=0.772514
+Epoch[86] Validation-person=0.712648
+Epoch[86] Validation-pottedplant=0.391753
+Epoch[86] Validation-sheep=0.684086
+Epoch[86] Validation-sofa=0.771169
+Epoch[86] Validation-train=0.802822
+Epoch[86] Validation-tvmonitor=0.721854
+Epoch[86] Validation-mAP=0.703680
+Epoch[87] Batch [20]	Speed: 26.49 samples/sec	CrossEntropy=0.560534	SmoothL1=0.250802
+Epoch[87] Batch [40]	Speed: 26.47 samples/sec	CrossEntropy=0.532216	SmoothL1=0.243901
+Experimental: start training from scratch with (gpu(0))
+Epoch[87] Batch [60]	Speed: 17.05 samples/sec	CrossEntropy=0.551381	SmoothL1=0.260888
+Epoch[87] Batch [80]	Speed: 10.65 samples/sec	CrossEntropy=0.543992	SmoothL1=0.246469
+Epoch[0] Batch [20]	Speed: 6.21 samples/sec	CrossEntropy=4.100735	SmoothL1=0.826236
+Epoch[87] Batch [100]	Speed: 13.06 samples/sec	CrossEntropy=0.575710	SmoothL1=0.262591
+Experimental: start training from scratch with (gpu(0))
+Epoch[87] Batch [120]	Speed: 15.94 samples/sec	CrossEntropy=0.569125	SmoothL1=0.255867
+Epoch[87] Batch [140]	Speed: 26.46 samples/sec	CrossEntropy=0.556956	SmoothL1=0.262355
+Experimental: start training from scratch with (gpu(0))
+Epoch[87] Batch [160]	Speed: 26.40 samples/sec	CrossEntropy=0.565142	SmoothL1=0.259472
+Epoch[87] Batch [180]	Speed: 26.41 samples/sec	CrossEntropy=0.547787	SmoothL1=0.252331
+Epoch[0] Batch [20]	Speed: 11.77 samples/sec	CrossEntropy=4.101257	SmoothL1=0.825334
+Epoch[87] Batch [200]	Speed: 26.41 samples/sec	CrossEntropy=0.588968	SmoothL1=0.270809
+Epoch[87] Batch [220]	Speed: 26.39 samples/sec	CrossEntropy=0.541980	SmoothL1=0.252327
+Epoch[0] Batch [40]	Speed: 11.53 samples/sec	CrossEntropy=3.300203	SmoothL1=0.787406
+Epoch[0] Batch [60]	Speed: 11.02 samples/sec	CrossEntropy=3.060508	SmoothL1=0.785961
+Epoch[0] Batch [80]	Speed: 11.09 samples/sec	CrossEntropy=2.734446	SmoothL1=0.788643
+Epoch[0] Batch [100]	Speed: 11.13 samples/sec	CrossEntropy=2.345573	SmoothL1=0.781473

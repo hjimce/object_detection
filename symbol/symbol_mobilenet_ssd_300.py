@@ -181,7 +181,7 @@ def get_symbol_train(num_classes=20, nms_thresh=0.5, force_suppress=False, nms_t
         [1,2,.5], [1,2,.5]]
     normalizations = [20, -1, -1, -1, -1, -1]
     steps = [ x / 300.0 for x in [8, 16, 32, 64, 100, 300]]
-    num_channels = [512]
+    num_channels = [256]
 
     loc_preds, cls_preds, anchor_boxes = multibox_layer(from_layers, \
         num_classes, sizes=sizes, ratios=ratios, normalization=normalizations, \
