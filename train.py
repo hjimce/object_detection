@@ -19,7 +19,7 @@ def parse_args():
                         choices=['vgg16_ssd_300', 'vgg16_ssd_512'], help='which network to use')
     parser.add_argument('--batch-size', dest='batch_size', type=int, default=32,
                         help='training batch size')
-    parser.add_argument('--resume', dest='resume', type=int, default=86,
+    parser.add_argument('--resume', dest='resume', type=int, default=-1,
                         help='resume training from epoch n')
     parser.add_argument('--finetune', dest='finetune', type=int, default=-1,
                         help='finetune from epoch n, rename the model before doing this')
